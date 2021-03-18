@@ -1,0 +1,17 @@
+document.writeln("<footer class=\'site-footer\'>");
+document.writeln("    <div class=\'site-footer__bottom\'>");
+document.writeln("        <div class=\'container\'>");
+document.writeln("            <div class=\'inner-container\'>");
+document.writeln("                <p>&copy; Copyright Yiyun Li. All Rights Reserved</p>");
+document.writeln("                <a href=\'index.html\' class=\'site-footer__bottom-logo\'>");
+document.writeln("                    <img src=\'assets/images/logo.gif\' height=\'50\' width=\'50\' alt=\'\'>");
+document.writeln("                </a>");
+document.writeln("                <div class=\'site-footer__bottom-links\'>");
+document.writeln("                    <a href=\'#\'>Terms & conditions</a>");
+document.writeln("                    <a href=\'#\'>Privacy policy & Terms of use</a>");
+document.writeln("                </div><!-- /.site-footer__bottom-links -->");
+document.writeln("            </div><!-- /.inner-container -->");
+document.writeln("        </div><!-- /.container -->");
+document.writeln("    </div><!-- /.site-footer__bottom -->");
+document.writeln("</footer><!-- /.site-footer -->");
+document.writeln("");
