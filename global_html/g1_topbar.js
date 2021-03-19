@@ -3,7 +3,7 @@ document.writeln("    <div class=\'container\'>");
 document.writeln("        <div class=\'inner-container\'>");
 document.writeln("            <div class=\'logo-box\'>");
 document.writeln("                <a href=\'index.html\'>");
-document.writeln("                    <img src=\'assets/images/logo.jpg\' alt=\'\' width=\'143\'>");
+document.writeln("                    <img src=\'assets/images/logo.JPG\' alt=\'\' width=\'143\'>");
 document.writeln("<!--                    <video width=\'143\' loop=\'loop\' autoplay=\'autoplay\' id=\'videoID1\'>-->");
 document.writeln("<!--                        <source src=\'assets/images/logo.mp4\' type=\'video/mp4\'/>-->");
 document.writeln("<!--                    </video>-->");
