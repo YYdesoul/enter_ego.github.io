@@ -22,3 +22,6 @@ document.writeln("");
 document.writeln("<!-- Custom Scripts -->");
 document.writeln("<script src=\'assets/js/theme.js\'></script>");
 document.writeln("<!-- ending of global static 3: js files -->");
+document.writeln("");
+document.writeln("<script  type=\'text/javascript\' src=\'assets/js/play_video.js\'></script>");
+document.writeln("");

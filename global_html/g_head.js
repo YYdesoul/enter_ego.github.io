@@ -26,3 +26,5 @@ document.writeln("");
 document.writeln("<!-- Custom CSS -->");
 document.writeln("<link rel=\'stylesheet\' href=\'assets/css/style.css\'>");
 document.writeln("<link rel=\'stylesheet\' href=\'assets/css/responsive.css\'>");
+// document.writeln("<script src=\'assets/js/pic_loop.js\'></script>");
+document.writeln("");
