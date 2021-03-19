@@ -4,7 +4,7 @@ document.writeln("        <div class=\'container\'>");
 document.writeln("            <div class=\'inner-container\'>");
 document.writeln("                <p>&copy; Copyright Yiyun Li. All Rights Reserved</p>");
 document.writeln("                <a href=\'index.html\' class=\'site-footer__bottom-logo\'>");
-document.writeln("                    <img src=\'assets/images/logo.jpg\' height=\'50\' width=\'50\' alt=\'\'>");
+document.writeln("                    <img src=\'assets/images/logo.JPG\' height=\'50\' width=\'50\' alt=\'\'>");
 document.writeln("                </a>");
 document.writeln("                <div class=\'site-footer__bottom-links\'>");
 document.writeln("                    <a href=\'#\'>Terms & conditions</a>");
