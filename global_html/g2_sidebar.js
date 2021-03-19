@@ -58,14 +58,12 @@ document.writeln("        <a href=\'index.html\' class=\'side-menu__logo\'><img 
 document.writeln("        <nav class=\'mobile-nav__container\'>");
 document.writeln("            <!-- content is loading via js -->");
 document.writeln("        </nav>");
-document.writeln("        <p class=\'side-menu__block__copy\'>(c) 2020 <a href=\'http://www.bootstrapmb.com\' title=\'\'>Muzex</a> - All rights");
+document.writeln("        <p class=\'side-menu__block__copy\'>(c) 2021 Yiyun Li - All rights");
 document.writeln("            reserved.</p>");
 document.writeln("        <div class=\'side-menu__social\'>");
-document.writeln("            <a href=\'#\'><i class=\'fab fa-facebook-f\'></i></a>");
-document.writeln("            <a href=\'#\'><i class=\'fab fa-google-plus\'></i></a>");
-document.writeln("            <a href=\'#\'><i class=\'fab fa-twitter\'></i></a>");
-document.writeln("            <a href=\'#\'><i class=\'fab fa-instagram\'></i></a>");
-document.writeln("            <a href=\'#\'><i class=\'fab fa-pinterest-p\'></i></a>");
+document.writeln("            <a href=\'https://www.facebook.com/irin.li.9\'><i class=\'fab fa-facebook-f\'></i></a>");
+document.writeln("            <a href=\'https://www.instagram.com/yiyunsoul_/\'><i class=\'fab fa-instagram\'></i></a>");
+document.writeln("            <a href=\'https://www.linkedin.com/in/yiyun-li-aab149186\'><i class=\'fab fa-linkedin\'></i></a>");
 document.writeln("        </div>");
 document.writeln("    </div><!-- /.side-menu__block-inner -->");
 document.writeln("</div><!-- /.side-menu__block -->");
